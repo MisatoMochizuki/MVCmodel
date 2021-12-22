@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+.wrapper{
+    margin: 0 auto;
+    width: 400px
+}
+.header{
+    float: auto;
+    margin-top: 10px;
+    width: 400pX;
+    text-align: left;
+
+    background-color: #0000FF;
+
+    color: #FFFFFF;
+
+    vertical-align: middle;
+}
+
+ul li {
+	margin-top: 10px;
+    list-style: none;
+}
+
+label {
+    width:100px;
+    float: left;
+}
+
+ul {
+    width: 400px;
+    margin: 0 auto;
+}
+input#button {
+    display: block;
+    margin: 0 auto;
+}
+ul li.pass {
+    margin-bottom: 15px;
+}
+
+.footer{
+	float: auto;
+	margin-top: 10px;
+	width: 400pX;
+	text-align:left;
+
+    background-color: #0000FF;
+
+    color: #FFFFFF;
+
+    vertical-align: middle;
+}
